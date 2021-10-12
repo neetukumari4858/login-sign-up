@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "Username": "neetu",
+            "Password": "neetu@123A",
+            "Profile": {
+                "description": "OK",
+                "d_o_b": "14 JUNE 2000",
+                "Gender": "f",
+                "Hobbies": "reading"
+            }
+        }
+    ]
+}
